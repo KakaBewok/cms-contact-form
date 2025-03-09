@@ -2,7 +2,7 @@
     <div class="container mx-auto text-center">
         <p>
             &copy; 2025 -
-            <a href="https://instagram.com/kkbwk" target="_blank" class="text-blue-400 hover:underline">
+            <a href="https://instagram.com/_kkbwk" target="_blank" class="text-blue-400 hover:underline">
                 Noprizal
             </a>
         </p>
